@@ -1,6 +1,6 @@
 # Hexadecimal codes for transparency
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@LopezMikhael-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/mowaisnizami)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@MOwaisNizami-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/mowaisnizami)
 
 ### All hex value from 100% to 0% alpha:
 
